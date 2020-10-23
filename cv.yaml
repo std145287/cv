@@ -24,29 +24,34 @@ order:
   - [industry, Experience]
   - [skills, Skills]
 
-about:
-  'I am a lieutenant in Greek Army, and work in Military Depot Maintenance for self-propelled guns and armored personnel carriers. 
-  I have BSc in Computer Science, and now I am studying, Pervasive and Mobile Computing System at Helenic Open University. Also I am studying Byzantine Music.'
+about:'
+  I am a <b>Lieutenant</b> in <b>Greek Army</b>, and work in Military Depot Maintenance for self-propelled guns and armored personnel carriers. 
+  I have <b>BSc in Computer Science</b>, and now I am studying, Pervasive and Mobile Computing System at Helenic Open University. Also I am studying Byzantine Music.'
 
 education:
   - school: Hellenic Open University, Pervasive and Mobile Computing System MSc
     location: Patras, Greece
+    degree: Student
     dates: Oct 2014 -- present
 
   - school: Hellenic Open University, Computer Science Bsc
     location: Patras, Greece
+    degree: BSc in Computer Science
     dates: Oct 2014 -- Jul 2019
 
   - school: Military School NCO
     location: Trikala, Greece
+    degree: Lieutenant
     dates: Sep 1995 -- Jun 1997
 
   - school: Military School for Engineers - Technicians
     location: Patra, Greece
+    degree: Lieutenant
     dates: Jun 1997 -- Mar 1998
     
   - school: School of Byzantine Music
     location: Thessaloniki, Greece
+    degree: Student
     dates: Jun 1997 -- present
 
 industry:
