@@ -24,9 +24,10 @@ order:
   - [industry, Experience]
   - [skills, Skills]
 
-about:'
+about: '
   I am a <b>Lieutenant</b> in <b>Greek Army</b>, and work in Military Depot Maintenance for self-propelled guns and armored personnel carriers. 
-  I have <b>BSc in Computer Science</b>, and now I am studying, Pervasive and Mobile Computing System at Helenic Open University. Also I am studying Byzantine Music.'
+  I have <b>BSc in Computer Science</b>, and now I am studying, Pervasive and Mobile Computing System at Helenic Open University. Also I am studying Byzantine Music.
+  '
 
 education:
   - school: Hellenic Open University, Pervasive and Mobile Computing System MSc
