@@ -21,7 +21,7 @@ color2: '0.25,0.25,0.25' # Make the font under the name a darker grey.
 order:
   - [about, NONE]
   - [education, Education]
-  - [job, Experience]
+  - [industry, Experience]
   - [skills, Skills]
 
 about:
@@ -49,7 +49,7 @@ education:
     location: Thessaloniki, Greece
     dates: Jun 1997 -- present
 
-job:
+industry:
   - place: Greek Army
     location: Thessaloniki, Limnos, Mytilene, Nea Santa
     title: Vehicle mechanic, Computer Officer, Communication Officer, CIMIC Liaison Officer
